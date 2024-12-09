@@ -11,6 +11,10 @@ Kelas : TI,24.A.3
 
 <img src="flowchart.png">
 
+# diagram class
+
+<img src="diagramclass.png">
+
 # input dan outpu dari Praktikum 8
 
 ## 1. input tambah data 
