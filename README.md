@@ -1,4 +1,4 @@
-# TUGAS PRAKTIKUM 6
+# TUGAS PRAKTIKUM 8
 # Data Diri
 
 Nama : Muhammad Aziz Tri Ramadhan
@@ -11,7 +11,7 @@ Kelas : TI,24.A.3
 
 <img src="flowchart06.png">
 
-# input dan outpu dari Praktikum 6
+# input dan outpu dari Praktikum 8
 
 ## 1. input tambah data 
 
